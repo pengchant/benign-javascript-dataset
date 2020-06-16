@@ -1,0 +1,1 @@
+var GLOBAL_CONTENT = {"WAITING_FOR_RESPONSE":"Loading...","SERVICE_FAILED_MSG":"There seems to be a problem serving the request at this time","FILTER_APPLIED":"Filter Applied"}

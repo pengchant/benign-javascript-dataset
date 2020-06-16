@@ -1,0 +1,1 @@
+window.SLIDE1ST = (new Date()).getTime();

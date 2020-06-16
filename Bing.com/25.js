@@ -1,0 +1,1 @@
+  $(document).ready(function(){ var locale_picker_link = $('#locale-picker-link');  if(locale_picker_link.length>0){  var href = locale_picker_link.attr('href');  href = href + ((href.indexOf('?') < 0) ? '?' : '&') + 'snid=13127';  locale_picker_link.attr('href', href);  } });  

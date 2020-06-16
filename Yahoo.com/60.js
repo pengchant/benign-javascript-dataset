@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Side-3-NewsletterSubscription');window.performance.measure && window.performance.measure('Side-3-NewsletterSubscriptionDone','PageStart','Side-3-NewsletterSubscription');}

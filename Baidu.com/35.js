@@ -1,0 +1,1 @@
+    _.Module.use('tbmall/widget/memberUpgradeTip', {}, function () {});

@@ -1,0 +1,3 @@
+
+    document.querySelector('#stage').innerHTML = '';
+  

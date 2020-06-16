@@ -1,0 +1,1 @@
+var plugin_path = 'https://advertiseonbing.azureedge.net/001.340.0/App_Themes/Smarty/assets/plugins/';

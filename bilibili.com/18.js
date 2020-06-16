@@ -1,0 +1,1 @@
+"undefined" == typeof Promise && document.write('<script src="//static.biligame.net/lib/promise-polyfill/8.0.0/polyfill.min.js"><\/script>'),"undefined" == typeof URLSearchParams && document.write('<script src="//static.biligame.net/lib/url-search-params/1.0.2/url-search-params.js"><\/script>')

@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Col1-2-GeminiBannerPromo');window.performance.measure && window.performance.measure('Col1-2-GeminiBannerPromoDone','PageStart','Col1-2-GeminiBannerPromo');}

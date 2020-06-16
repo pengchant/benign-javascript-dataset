@@ -1,0 +1,1 @@
+P.when("component-feed-carousel").execute(function(c) { c.createCarousel("#N_xw5qkQZ7PNECzFVjDPyQ .feed-carousel", 10,  0 ); });

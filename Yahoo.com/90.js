@@ -1,0 +1,1 @@
+window.webpackPublicPath='https://s.yimg.com/aaq/yc/js/';

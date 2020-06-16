@@ -1,0 +1,1 @@
+var timeStamps = [new Date()];

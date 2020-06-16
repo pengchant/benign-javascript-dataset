@@ -1,0 +1,3 @@
+;!function() {
+var w=window,d=document,html=d.documentElement,body=d.body;var overVPCache;w.addEventListener('scroll',handleScroll);w.addEventListener('resize',handleScroll);handleScroll();function handleScroll(){var overVP=(html.scrollTop||body.scrollTop)>html.clientHeight;if(overVP===overVPCache)return;var baseClassName=html.className.replace(/\bover-vp\b/g,'').replace(/\s+$/,'');html.className=baseClassName+(overVP?' over-vp':'');overVPCache=overVP;}
+}();

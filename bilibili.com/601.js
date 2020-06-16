@@ -1,0 +1,1 @@
+window.__pageType = '2';

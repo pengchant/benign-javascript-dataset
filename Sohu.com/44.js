@@ -1,0 +1,1 @@
+ messagebus.publish('core.loaded_end'); 

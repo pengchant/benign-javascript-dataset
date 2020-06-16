@@ -1,0 +1,1 @@
+window.nmain.isIE&&(Object.create=function(n){function t(){}return t.prototype=n,new t})

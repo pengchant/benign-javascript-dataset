@@ -1,0 +1,4 @@
+
+            SetCurWindowLoadComplete();
+            SetCurWindowLoadComplete = function() {};
+        

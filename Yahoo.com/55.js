@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('SideTop-0-HeadComponentTitle');window.performance.measure && window.performance.measure('SideTop-0-HeadComponentTitleDone','PageStart','SideTop-0-HeadComponentTitle');}

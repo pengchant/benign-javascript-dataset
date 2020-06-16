@@ -1,0 +1,1 @@
+document.write('<script type="text/javascript" src="js/xhsc_page.js?list=2&bottom=300&ver='+Math.random()+'"><\/script>')

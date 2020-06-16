@@ -1,0 +1,1 @@
+    _.Module.use('user/widget/icon_tip',{ myIcons:[] });

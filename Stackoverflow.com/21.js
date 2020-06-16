@@ -1,0 +1,1 @@
+StackExchange.ready(function () { StackExchange.responsiveness.addSwitcher(); })

@@ -1,0 +1,1 @@
+document.write('<a href="http://www.babytree.com/community/birthclub/">同龄圈</a>');

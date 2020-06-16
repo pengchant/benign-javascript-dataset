@@ -1,0 +1,1 @@
+window.reportMsgObj={},window.reportConfig={sample:1,scrollTracker:!1,msgObjects:"reportMsgObj"};var reportScript=document.createElement("script");reportScript.src="//s1.hdslb.com/bfs/seed/log/report/log-reporter.js",document.getElementsByTagName("body")[0].appendChild(reportScript)

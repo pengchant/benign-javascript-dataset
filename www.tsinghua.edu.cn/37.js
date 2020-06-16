@@ -1,0 +1,1 @@
+_showDynClickBatch(['dynclicks_u12_2699','dynclicks_u12_2209','dynclicks_u12_2210','dynclicks_u12_2211','dynclicks_u12_2212','dynclicks_u12_2213','dynclicks_u12_2214','dynclicks_u12_2215'],[2699,2209,2210,2211,2212,2213,2214,2215],"wbnews", 1623241808)

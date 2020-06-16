@@ -1,0 +1,1 @@
+KISSY.use("node",function(S){S.all('#guid-14177696725030').each(function(a){var b=a.attr("data-name"),c=a.one("."+b);c.hasClass("tb-finish")||S.use(b,function(b,d){new d(a[0],c[0])})})});

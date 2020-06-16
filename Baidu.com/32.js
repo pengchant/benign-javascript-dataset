@@ -1,0 +1,1 @@
+        _.Module.use("spage/widget/TopicRank");    

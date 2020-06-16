@@ -1,0 +1,1 @@
+window.performanceLog.setSource('article');

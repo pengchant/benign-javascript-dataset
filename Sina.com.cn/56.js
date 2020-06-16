@@ -1,0 +1,1 @@
+(sinaads = window.sinaads || []).push({params:{sinaads_success_handler:function(){var ad_46022 = document.getElementById("ad_46022");ad_46022.style.overflow = "hidden";}}});

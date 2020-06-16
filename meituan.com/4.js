@@ -1,0 +1,2 @@
+window.comPtData = window.comPtData || {};
+window.comPtData['header'] = {"currentCity":{"id":1,"name":"北京","pinyin":"beijing","acronym":"bj","onlineTime":"1267632000","open":true,"rank":"S","locationId":"110000","position":{"lat":39.9046669,"lng":116.4081955},"divisionStr":"北京--北京","originGeotagID":0,"realLocationID":"110000","provinceLocationID":"110000","gisID":"110100","chineseFullName":"北京市","isHot":1,"firstChar":"B","originCityID":0,"recommend":1,"newIndex":1,"endTime":"2000000000"}}

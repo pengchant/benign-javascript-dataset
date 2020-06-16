@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('NavLite');window.performance.measure && window.performance.measure('NavLiteDone','PageStart','NavLite');}

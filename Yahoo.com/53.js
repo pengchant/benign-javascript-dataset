@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Hero-5-HeadComponentVideo');window.performance.measure && window.performance.measure('Hero-5-HeadComponentVideoDone','PageStart','Hero-5-HeadComponentVideo');}

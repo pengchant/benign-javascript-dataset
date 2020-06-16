@@ -1,0 +1,3 @@
+
+		window.footerLoadTime = Date.now()
+	

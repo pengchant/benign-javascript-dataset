@@ -1,0 +1,1 @@
+seajs.use("/static/page/common/advertiseCheck.js");

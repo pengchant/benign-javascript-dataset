@@ -1,0 +1,1 @@
+window.sohu_comps = {theme: {color: "",hoverColor: "",},title: "体育首页-搜狐",description: "搜狐体育是中国知名的体育媒体，是受体育迷欢迎的网络资讯及互动平台。频道集赛事新闻报道、赛事视频转播、体育资讯服务、自媒体内容互动于一体，着力打造国内有影响力的体育媒体。",keywords: "体育、体育新闻、体育图片、比分、直播、NBA、CBA、中超、欧冠、英超、西甲、詹姆斯、国足、C罗、梅西、曼联、皇马、巴萨、男篮",spmACode: "smpc",spmBCode: "fb-sports-home",channelId: "17",newschn: "",multichn: "",subChannelId: "",templateName: "",subjectId: ""}

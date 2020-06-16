@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Col2Ext-5-Footer');window.performance.measure && window.performance.measure('Col2Ext-5-FooterDone','PageStart','Col2Ext-5-Footer');}

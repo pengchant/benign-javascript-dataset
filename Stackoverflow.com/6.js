@@ -1,0 +1,6 @@
+
+      window.digitalData = {
+        page: {"category":{"primaryCategory":"award","subCategory1":"most innovative companies","subCategory2":"sector"},"pageInfo":{"pageName":"Most Innovative Companies 2019 enterprise","publisher":"fast company","author":"fast company","authorStatus":"staff","editorName":"FC Editor","pageID":"fc-mic-enterprise","destinationURL":"https://www.fastcompany.com/most-innovative-companies/2019/enterprise","server":"fc-node","urlText":"","adPath":"","infiniteScrollIndex":1,"pubdate":"1995-11-01","daysSincePubdate":-1,"type":"mic sector page","contentType":"lander","editTags":"enterprise,2019,mic,most innovative companies","referringURL":""}},
+        user: [{"profile":[{"address":{"stateProvince":"","postalCode":""},"attributes":{"isLoggedIn":false,"bombora":{"security":{"CompanyRevenue":["Analytics","Personalization"],"CompanySize":["Analytics","Recommendations","Personalization"],"CompanyDomain":["Analytics","Recommendations","Personalization"],"CompanyInstall":["Analytics","Personalization"],"FunctionalArea":["Analytics","Recommendations","Personalization"],"Profession":["Analytics","Recommendations","Personalization"],"Seniority":["Analytics","Recommendations","Personalization"],"DecisionMaker":"Personalization","Education":"Analytics"}}},"profileInfo":{"profileID":""}}],"segment":{}}]
+      };
+    

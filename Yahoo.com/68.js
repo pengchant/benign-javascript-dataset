@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Col2-0-CommonSlotComposite');window.performance.measure && window.performance.measure('Col2-0-CommonSlotCompositeDone','PageStart','Col2-0-CommonSlotComposite');}

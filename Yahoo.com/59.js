@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Side-2-GeminiImagePromo');window.performance.measure && window.performance.measure('Side-2-GeminiImagePromoDone','PageStart','Side-2-GeminiImagePromo');}

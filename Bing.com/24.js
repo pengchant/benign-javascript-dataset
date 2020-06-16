@@ -1,0 +1,1 @@
+ var shellOptions = {  currentMenuItemId:'primary-nav-item-13127'  };  if (window.msCommonShell) {window.msCommonShell.load(shellOptions);}  else {  window.onShellReadyToLoad = function() {  window.onShellReadyToLoad = null;  window.msCommonShell.load(shellOptions);  };  }    

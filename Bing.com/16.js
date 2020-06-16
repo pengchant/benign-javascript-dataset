@@ -1,0 +1,4 @@
+
+         var MSChatLanguageCode = "";
+         var MSChatCountryCode = "";
+       

@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Stream');window.performance.measure && window.performance.measure('StreamDone','PageStart','Stream');}

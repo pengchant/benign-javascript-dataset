@@ -1,0 +1,1 @@
+document.write('<a href="http://www.babytree.com/community/hospital.php" class="func">全部医院圈&raquo;</a>');

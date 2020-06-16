@@ -1,0 +1,1 @@
+seajs.use("/static/page/"+OP_CONFIG.module+"/"+OP_CONFIG.page);

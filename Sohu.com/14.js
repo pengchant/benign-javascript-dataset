@@ -1,0 +1,1 @@
+window.channelAdData.push({itemspaceid: 16206,compIndex: 1,adps: 3000250,turn: 3,maxreads: 1,})

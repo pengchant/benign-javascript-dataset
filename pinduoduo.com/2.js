@@ -1,0 +1,3 @@
+
+(function(window){window.onerror=function(message,url,line,column,error){console.log("log---onerror::::",message,url,line,column,error);try{var q={"platform":"A-WEB","page":message,"op":"real_error","page_url":url,"page_name":"homesite-web","page_id":url,"log_version":"1.0.0"};var url="https://tne.yangkeduo.com/tne.gif";var xmlhttp=void 0;if(window.XMLHttpRequest){xmlhttp=new XMLHttpRequest()}else{return}xmlhttp.open("POST",url,true);xmlhttp.withCredentials=true;xmlhttp.send(JSON.stringify(q))}catch(e){console.log("log---onerror::::",e)}}})(window);
+          

@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Overlay-0-Lightbox');window.performance.measure && window.performance.measure('Overlay-0-LightboxDone','PageStart','Overlay-0-Lightbox');}

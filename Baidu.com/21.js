@@ -1,0 +1,1 @@
+_.Module.use('common/widget/searchBright',[$('#head'),{    style:'bright',    theme:'2',    forumName:'',    searchFixed:'',    sugOn:'1'}]);

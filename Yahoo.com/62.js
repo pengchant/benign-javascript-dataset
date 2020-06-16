@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('ContentCanvas');window.performance.measure && window.performance.measure('ContentCanvasDone','PageStart','ContentCanvas');}

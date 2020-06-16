@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Col2Ext-2-Ad');window.performance.measure && window.performance.measure('Col2Ext-2-AdDone','PageStart','Col2Ext-2-Ad');}

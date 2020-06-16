@@ -1,0 +1,1 @@
+function addWaifu(n){try{window.planeptune||(window.planeptune=[]),window.planeptune.push({key:n,ts:Date.now()})}catch(n){console.error(n)}}addWaifu("neptune")

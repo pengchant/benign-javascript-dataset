@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Hero-2-Ad');window.performance.measure && window.performance.measure('Hero-2-AdDone','PageStart','Hero-2-Ad');}

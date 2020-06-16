@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('CanvassComments');window.performance.measure && window.performance.measure('CanvassCommentsDone','PageStart','CanvassComments');}

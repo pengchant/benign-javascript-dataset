@@ -1,0 +1,6 @@
+(function(){window.__wormholeContext = {detector: {"os":{"name":"NA","version":-1,"fullVersion":"NA"},"device":{"type":"pc","name":"NA"},"app":{"is":false,"name":"NA","version":-1,"fullVersion":"NA"},"browser":{"name":"NA","version":-1,"fullVersion":"NA"},"cache":{"type":"NA"}} } })();
+    window.$zebra = window.$zebra || {};  $zebra.plugins = window.$zebra.plugins || {};  $zebra.plugins.asyncload = typeof $zebra.plugins.asyncload !== "undefined" ? $zebra.plugins.asyncload : true;
+        $zebra.diff = 50;
+        window.addEventListener && window.addEventListener('load', function() {$zebra.diff = 800; });   $zebra.closeDomLazy = true;  $zebra.imgOpFactor = 60;
+    $zebra.pageId = window.$zebra.id = '5074';  $zebra.pageGroupId = "1932";
+    $zebra.schemaVersion = window.$zebra.sv = 'd4ece895-9a18-43e8-837e-0b43a0e7ace8';  $zebra.previewEnv = ''; $zebra.isAliIntranet = "false";  window.Dynamic_NotEmptyData = true;   window.g_config = window.g_config || {};  g_config.language = "";  g_config.regionID = "CN"; Dynamic_NotEmptyData = true;  

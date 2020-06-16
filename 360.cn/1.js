@@ -1,0 +1,1 @@
+var nts=window.location;if(nts!="http://www.360.com/?ndr"&&nts!="http://www.360.cn/?ndr"&&nts!="https://www.360.com/?ndr"&&nts!="https://www.360.cn/?ndr"){var is_mobi=navigator.userAgent.toLowerCase().match(/(ipod|iphone|android|coolpad|mmp|smartphone|midp|wap|xoom|symbian|j2me|blackberry|wince)/i)!=null;is_mobi&&(window.location.href="http://m.360.com")}

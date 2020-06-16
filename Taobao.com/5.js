@@ -1,0 +1,1 @@
+KISSY.use('kg/home-2017/1.4.17/index');

@@ -1,0 +1,1 @@
+window.__CDN_DOMAIN = 'imgcache.qq.com'

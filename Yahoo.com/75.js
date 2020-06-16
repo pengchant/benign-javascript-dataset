@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Col2Ext-0-Stream');window.performance.measure && window.performance.measure('Col2Ext-0-StreamDone','PageStart','Col2Ext-0-Stream');}

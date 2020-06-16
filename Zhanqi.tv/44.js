@@ -1,0 +1,1 @@
+newhanawa.createIndexAdBanner("tl5index",15);

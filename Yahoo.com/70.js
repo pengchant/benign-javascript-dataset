@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Col2-2-Ad');window.performance.measure && window.performance.measure('Col2-2-AdDone','PageStart','Col2-2-Ad');}

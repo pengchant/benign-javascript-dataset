@@ -1,0 +1,2 @@
+
+switchKnowTab(2);

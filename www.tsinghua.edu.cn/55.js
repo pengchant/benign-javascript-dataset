@@ -1,0 +1,1 @@
+document.write(getYyyy1("2018-06-29"));

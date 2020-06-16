@@ -1,0 +1,1 @@
+document.write('<p>点击或微信扫描</p> <a target="_blank" href="http://m.babytree.com/app/pregnancy/"><img width="100" height="100" src="//pic05.babytreeimg.com/img/QRcode/pregnancy_code.png?v=20110707"/></a> <p>千万孕妈帮你解答</p>');

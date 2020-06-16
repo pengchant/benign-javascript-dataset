@@ -1,0 +1,1 @@
+var FullScreenData=new Array();(sinaads = window.sinaads || []).push({});

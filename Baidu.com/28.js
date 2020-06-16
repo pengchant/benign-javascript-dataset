@@ -1,0 +1,1 @@
+    _.Module.use('liveshow/widget/spageLiveshowSlide', [{        gameStaticPic: ''    }], function () {    });

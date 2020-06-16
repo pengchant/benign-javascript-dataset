@@ -1,0 +1,11 @@
+
+    (function(){
+    window.sales = window.sales || {};
+    
+    window.sales["hotsite_image"] = [{"id":"jingdong20200616","data":{"width":"45","height":"24","left":"16","bottom":"105","site_link":"https:\/\/union-click.jd.com\/jdc?d=Rn6r2u","site_img":"\/\/hao1.qhimg.com\/t015cd98b9a17731998.jpg","site_title":"\u4eac\u4e1c","slogan_link":"https:\/\/c.ssp.360.cn\/t?type=19&pub=1000043_746864_1213830&cus=0_0_0_16943_0&url=http%3A%2F%2Fclickc.admaster.com.cn%2Fc%2Fa140567%2Cb4107079%2Cc3292%2Ci0%2Cm101%2C8a1%2C8b3%2Ch","slogan_img":"\/\/hao1.qhimg.com\/t0102e566eea6ad2e49.jpg","slogan_title":"\u62a2\u7ea2\u5305","slogan_width":"46","slogan_height":"24","left_wide":"27","lef_new":"","left_wide_new":"284","bottom_new":"3","left_new":"235","expires":36048000}},{"id":"tianmaoyunying1230-0430","data":{"width":"16","height":"16","left":"256","bottom":"188","site_link":"https:\/\/s.click.taobao.com\/t?e=m%3D2%26s%3DMVKyIuLHd8UcQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMa2XsNgKZ%2BOx8sviUM61dt3%2FTrTNBNETjDMuQSmY3Vvkj8UPod6dAC19cgxTSFmAfKUuZxIcp9pfUIgVEmFmgnaR4ypTBJBwtC8UTyjdhQwHJPwiig1bxLMnyi1UQ%2F17I10hO9fBPG8oXH%2BQH9e66Y4%3D","site_img":"https:\/\/hao1.qhimg.com\/t013606f16d85780004.gif","site_title":"","slogan_link":"","slogan_img":"","slogan_title":"","slogan_width":"","slogan_height":"","left_wide":"316","lef_new":"","left_wide_new":"273","bottom_new":"57","left_new":"224","expires":299412048000}}];
+qboot.load('https://s0.ssl.qhimg.com/ssl/56610071df882c22.js');
+window.sales["hotsite_wenzi_animate"] = [{"id":"youxi20200616","data":{"bottom":"69","right":"125","right_wide":"167","bottom_new":"63","right_new":"213","right_wide_new":"261","link":"https:\/\/c.ssp.360.cn\/t?type=19&pub=1000043_746864_1993732&cus=0_0_0_16923_0&url=https%3A%2F%2Ft.vip.com%2FpRFVxcgqAX9","flash_url":"","width":"","height":"","title":"\u4ebf\u5143\u8865\u8d34","content":"\u4ebf,\u5143,\u8865,\u8d34","direction":"right","type":"flat","expires":36048000}}];
+qboot.load('https://s0.ssl.qhimg.com/ssl/e0164400d11ce008.js');
+qboot.load('https://s0.ssl.qhimg.com/ssl/0b525c7c4d7a5e81.js');
+    })();
+    

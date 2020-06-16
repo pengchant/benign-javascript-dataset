@@ -1,0 +1,1 @@
+console.log(" %c Caster %c 0.11.2 ", "color: #fff; background: #00a1d6; padding:5px 0; border: 1px solid #00a1d6;", "color: #00a1d6; background: #fff; padding:5px 0; border: 1px solid #00a1d6;");

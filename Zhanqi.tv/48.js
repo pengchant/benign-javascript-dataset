@@ -1,0 +1,1 @@
+newhanawa.createAdBanner("indexrighthot"); 

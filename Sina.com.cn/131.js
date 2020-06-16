@@ -1,0 +1,1 @@
+try{nextAD();}catch(e){}

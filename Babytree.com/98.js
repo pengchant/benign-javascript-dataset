@@ -1,0 +1,1 @@
+document.write('登录即可<span style="color:#f00;">免费</span>抽取<br>');

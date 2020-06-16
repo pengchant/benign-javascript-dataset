@@ -1,0 +1,1 @@
+document.write('价值<span style="color:#f00;">500元</span>孕育宝盒，包含奶粉、辅食、母婴化妆品等，应有尽有！');

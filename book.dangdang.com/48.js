@@ -1,0 +1,1 @@
+var minsize=1210;var screensize=screen.width;if (screensize<minsize){window.location.href='http://book.dangdang.com/20180412_skfq?wide_type=1'}

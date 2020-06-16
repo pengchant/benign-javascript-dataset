@@ -1,0 +1,2 @@
+window.comPtData = window.comPtData || {};
+window.comPtData['header'] = {"currentCity":{"id":656,"name":"宜都","pinyin":"yidu","acronym":"yidu","onlineTime":"1417622400","open":true,"rank":"F","locationId":"420581","position":{"lat":30.3783264,"lng":111.4500046},"divisionStr":"","originGeotagID":3474,"realLocationID":"420581","provinceLocationID":"420000","gisID":"420581","chineseFullName":"宜都市","isHot":0,"firstChar":"Y","originCityID":252,"recommend":1,"newIndex":1,"endTime":"2000000000"}}

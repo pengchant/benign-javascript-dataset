@@ -1,0 +1,1 @@
+window.widget_platform = {"renderType":1,"renderDelay":0,"triggerFallBack":true,"status":3,"queryParam":{"SSRFallback":3},"widgets":[{"html":"","css":null,"js":null,"jsInline":null,"init":""}],"showdiag":[]};

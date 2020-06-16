@@ -1,0 +1,1 @@
+window.TT && TT.Global.init();

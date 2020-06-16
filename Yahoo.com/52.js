@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Hero-4-HeroSlideshow');window.performance.measure && window.performance.measure('Hero-4-HeroSlideshowDone','PageStart','Hero-4-HeroSlideshow');}

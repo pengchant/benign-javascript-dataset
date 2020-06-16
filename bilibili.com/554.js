@@ -1,0 +1,1 @@
+function getIEVersion(){var e=99;if("Microsoft Internet Explorer"===navigator.appName){var t=navigator.userAgent;null!=new RegExp("MSIE ([0-9]{1,}[.0-9]{0,})").exec(t)&&(e=parseFloat(RegExp.$1))}return e}getIEVersion()<11&&(window.location.href="https://www.bilibili.com/blackboard/activity-I7btnS22Z.html")

@@ -1,0 +1,1 @@
+function setRootFontSize(){var a=1920;a=1200<document.documentElement.clientWidth?document.documentElement.clientWidth/a:1200/a;1<=a&&(a=1);document.getElementsByTagName("html")[0].style.fontSize=100*a+"px"}window.addEventListener("resize",setRootFontSize);setRootFontSize();

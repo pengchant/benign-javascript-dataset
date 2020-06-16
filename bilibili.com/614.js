@@ -1,0 +1,1 @@
+if(-1!==window.location.search.indexOf("liteVersion=true")&&window.top!==window)try{document.domain="bilibili.com",document.body.className+=document.body.className?" lite-room":"lite-room",window.top.__NEPTUNE_IS_MY_WAIFU__&&(window.__NEPTUNE_IS_MY_WAIFU__=JSON.parse(JSON.stringify(window.top.__NEPTUNE_IS_MY_WAIFU__)))}catch(o){console.error("Do♂You♂Like♂Van♂游戏",o)}

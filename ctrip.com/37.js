@@ -1,0 +1,1 @@
+var globalConfig={H1:'https',AjaxUrl:'accounts.ctrip.com',H3:'my.ctrip.com',PassportUrl:'passport.ctrip.com',Lang:'gb2312'};

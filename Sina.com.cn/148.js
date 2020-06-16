@@ -1,0 +1,1 @@
+var SteamMediaData=new Array();(sinaads = window.sinaads || []).push({});

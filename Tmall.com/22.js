@@ -1,0 +1,3 @@
+
+    KISSY.config({combine:true});
+  

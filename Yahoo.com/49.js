@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Hero-1-BreakingNews');window.performance.measure && window.performance.measure('Hero-1-BreakingNewsDone','PageStart','Hero-1-BreakingNews');}

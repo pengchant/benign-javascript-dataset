@@ -1,0 +1,4 @@
+
+	FIRST_SCREEN_NEWS.tab5_lastTime = '1472026032';
+	FIRST_SCREEN_NEWS.tab5=['1-1-33314322','1-1-33214190','1-1-33182214','1-1-33167509','1-1-33167465','1-1-33167452','1-1-33167451','1-1-33167434','1-1-33163678','1-1-33133699','1-1-33125263','1-1-33082385','1-1-32894053','1-1-32774566','1-1-32716934','1-1-32669728','1-1-32669725','1-1-32663084','1-1-32658320','1-1-32658117'];
+	FIRST_SCREEN_NEWS.comment5=['gj:comos-fxvcsrm2406801:0','gj:comos-fxtwiht3709827:0','gj:comos-fxtsatn7815615:0','gj:comos-fxtmweh2468204:0','gj:comos-fxtmweh2465886:0','gj:comos-fxtmwei9231805:0','gj:comos-fxtmwei9231694:0','gj:comos-fxtmweh2465070:0','gj:comos-fxtmwei9124573:0','gj:comos-fxszkzy5132781:0','gj:comos-fxsvenv6844360:0','gj:comos-fxsktkp9093284:0','gj:comos-fxqhmve9136800:0','gj:comos-fxnzani6980419:0','gj:comos-fxnkkux1105743:0','gj:comos-fxmxxsr3837773:0','gj:comos-fxmxxsr3837772:0','gj:comos-fxmxxsp6917523:0','gj:slidenews-album-2841-93252:1','gj:slidenews-album-2841-93248:1'];

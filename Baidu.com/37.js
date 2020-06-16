@@ -1,0 +1,1 @@
+        _.Module.use('spage/widget/fixed_bar', [], function(){});        if ('' === 'showBar'){            $.stats.track('底部', '新用户红包', 'spage', 'show');        }

@@ -1,0 +1,1 @@
+(function carouselBtf(d, w) { var p = d.getElementById("JuI2IsQ-qt7uKYRerNi9cg-btfCarouselContent"), h = p && p.innerHTML, v = h ? [h] : []; w.GWData = w.GWData || {}; w.GWData['JuI2IsQ-qt7uKYRerNi9cg'] = { loaded: false, data: v }; }(document, window));

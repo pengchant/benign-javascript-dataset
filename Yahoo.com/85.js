@@ -1,0 +1,1 @@
+if (typeof DARLA !== "undefined" && DARLA) {DARLA.config(window.DARLA_CONFIG);window.sf_host.onReady(true,true,'MAST,MON-1,LREC,LDRB',3000);}

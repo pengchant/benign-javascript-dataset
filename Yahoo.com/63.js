@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Col1-1-CanvasShareButtons');window.performance.measure && window.performance.measure('Col1-1-CanvasShareButtonsDone','PageStart','Col1-1-CanvasShareButtons');}

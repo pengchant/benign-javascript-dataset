@@ -1,0 +1,1 @@
+var searchBoxConfig={"free":{"name":"打包订","tagname":"方便又便宜"}}

@@ -1,0 +1,2 @@
+
+	window.nsc = "Mpost.viewer";

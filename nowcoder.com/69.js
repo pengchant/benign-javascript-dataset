@@ -1,0 +1,3 @@
+
+window.userSkillGraphs = [];
+window.userSkillGraphsDetail = [];

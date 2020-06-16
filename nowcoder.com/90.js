@@ -1,0 +1,1 @@
+try{document.getElementById('jsNCPageFooterYear').innerHTML=new Date().getFullYear();}catch(e){}

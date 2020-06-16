@@ -1,0 +1,1 @@
+_.Module.use("adsense/widget/FeedInject");

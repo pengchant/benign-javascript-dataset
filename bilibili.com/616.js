@@ -1,0 +1,1 @@
+addWaifu&&addWaifu("vert")

@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('SideTop-1-HeadComponentAttribution');window.performance.measure && window.performance.measure('SideTop-1-HeadComponentAttributionDone','PageStart','SideTop-1-HeadComponentAttribution');}

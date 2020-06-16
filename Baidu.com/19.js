@@ -1,0 +1,1 @@
+    _.Module.use('common/widget/httpTransform', [], function(){});  

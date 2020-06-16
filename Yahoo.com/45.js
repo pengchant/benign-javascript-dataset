@@ -1,0 +1,5 @@
+(function () {
+if (!window.YAHOO || !window.YAHOO.i13n || !window.YAHOO.i13n.Rapid) { return; }
+var rapidConfig = {"keys":{"ver":"y20","navtype":"server","layout":"y20stream","pd":"non_modal","pt":"content","p_cpos":1,"p_hosted":"hosted","pct":"story","pstaid":"cef83970-4ab8-3390-aa43-71e1bd80526d","pstcat":"sports","p_sec":"sports","ss_cid":"","mrkt":"us","site":"sports","lang":"en-US","colo":"bf1","_yrid":"e1u2os1fegsva","_rid":"e1u2os1fegsva","abk":""},"compr_type":"deflate","tracked_mods_viewability":[],"test_id":"NuwaExp,JARSPORTSPHASE2_00","webworker_file":"/lib/metro/g/myy/rapidworker_1_2_0.0.2.js","client_only":1,"track_right_click":true,"pageview_on_init":true,"viewability":true,"dwell_on":true,"spaceid":"95862293"};
+window.rapidInstance = new window.YAHOO.i13n.Rapid(rapidConfig);
+})();

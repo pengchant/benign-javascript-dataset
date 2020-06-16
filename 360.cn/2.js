@@ -1,0 +1,1 @@
+monitor.setConf({trackUrl:"//s.360.cn/qdas/s.htm",clickUrl:"//s.360.cn/qdas/c.htm",clickHeatMapUrl:"//s.360.cn/qdas/c.htm",wpoUrl:"//s.360.cn/qdas/p.htm"}),monitor.setProject("QH_132_4#0").getTrack().getClickAndKeydown().getClickHeatmap(10,1)
